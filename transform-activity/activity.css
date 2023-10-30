@@ -1,3 +1,5 @@
-main {
 
+main {
+transform:skewY(-10deg);
+width: 100%
 }
